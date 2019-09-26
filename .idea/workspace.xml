@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803cfb1d-4d6d-43b9-bd8c-dd835fdd31bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2_HW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nw_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Nw_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/for_test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fortest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fortest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/work_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2_HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2_HW.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +48,9 @@
       <module name="test_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\Artem\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
