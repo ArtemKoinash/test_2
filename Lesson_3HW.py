@@ -40,11 +40,33 @@
 #     x /= 2
 # print(counter)
 
-# task_4 не успел разобраться
-# task_5 не успел разобраться
+# # task_4.1
+# l = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# l.reverse()
+# while l:
+#     print(l.pop())
+# # task_4.2
+# l = ("123456789")
+# l1 = list(l)
+# l1.reverse()
+# while l1:
+#     print(l1.pop())
+# task_4.3
+# l = [6, 3, 1, 2, 9]
+# l.sort()
+# l.reverse()
+# while l:
+#     print(l.pop())
+# task_4.4
 
+
+
+# task_5 не успел разобраться
+# #task_6.1
+# #tak_6.2
 # #task_6.3
 # def is_leap_year (y):
+#"""function tell if entered yar is leap year or not leap year"""
 #     if int(y) % 4 != 0 or (int(y) % 400 != 0 and int(y) % 100 == 0):
 #         print("false")
 #     else:
